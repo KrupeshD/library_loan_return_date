@@ -1,0 +1,2 @@
+id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
+access_library_loan_return_date_library_loan_return_date,library_loan_return_date.library_loan_return_date,model_library_loan_return_date_library_loan_return_date,,1,0,0,0
