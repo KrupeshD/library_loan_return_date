@@ -16,7 +16,7 @@ class LibraryMember(models.Model):
 
 
 class LibraryLoanWizard(models.TransientModel):
-    _inherit = 'library.load.wizard'
+    _inherit = 'library.loan.wizard'
 
     def _prepare_loan( self, book ):
         values = super(LibraryLoanWizard,
